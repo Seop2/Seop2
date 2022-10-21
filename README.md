@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi i'm junior software_Engineer 👋
 
 <!--
 **Seop2/Seop2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

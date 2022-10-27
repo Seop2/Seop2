@@ -1,5 +1,5 @@
 ### Hi i'm junior software_Engineer 👋
-
+### don't hesitate just do it!
 <!--
 **Seop2/Seop2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![backend](https://user-images.githubusercontent.com/57839278/197089821-e3f6c8d3-949c-4be3-8da2-ba45c589686c.jpg)
+
